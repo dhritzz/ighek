@@ -17,7 +17,7 @@ apt-get install python
 apt-get install python2
 clear
 echo -e "$Purple Created By \e[1;34m"
-       figlet Incredible Hacker | lolcat
+       figlet Dhritzz | lolcat
 sleep 2.0
     echo -e " \e[96m  
                                      ████████ \e[0m"
@@ -32,8 +32,8 @@ echo " "
 figlet -f Bloody Insta-Hack | lolcat
 
     echo " "
-    echo -e "$Red                                 ⫸ Coded by$Yellow faizan$Red ⫷\033[0m"
-    echo -e "$Red                               ⫸$Purple Incredible Hackers$Red ⫷\033[0m"
+      echo -e "$Red                                 ⫸ Coded by$Yellow Dhritzz$Red ⫷\033[0m"
+    echo -e "$Red                               ⫸$Purple PushyGamertag27$Red ⫷\033[0m"
 echo " "
 echo -e " $Green     |---------------------------------------------------------------------|"
 echo -e " $Green     ||----------------------------$Cyan [features] $Green---------------------------||"
@@ -62,8 +62,8 @@ echo " "
         exit
     elif [ $ch -eq 2 ];then 
          cd $HOME
-         git clone https://github.com/noob-hackers/ighack
-         cd $HOME/insta-hack/ig_brute_force
+         git clone https://github.com/dhritzz/ighek
+         cd $HOME/ighek/ig_brute_force
          bash setup
          bash ighack.sh
         
@@ -83,14 +83,14 @@ echo " "
         echo -e "\e[1;34m Downloading Latest Files..."
         cd $HOME
         rm -rf insta-hack
-        git clone https://github.com/IncredibleHacker/insta-hack
-        cd insta-hack
+        git clone https://github.com/dhritzz/ighek
+        cd ighek
         bash insta-hack.sh
      
         exit
    elif [ $ch -eq 6 ];then 
         cd $HOME
-        rm -rf insta-hack
+        rm -rf ighek
         
         exit
    elif [ $ch -eq 7 ];then
