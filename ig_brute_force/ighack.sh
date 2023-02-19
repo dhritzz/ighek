@@ -1,11 +1,11 @@
 #bin/bash
-#script By Noob Hackers
+#script By dhritzz
 #The real creator of core files is not us so the credits 
 #Goes to real author
 #colours
 #####3#3#
 check(){
-if wget --spider https://raw.githubusercontent.com/noob-hackers/ig_brute_force/master/update.v3.2 2>/dev/null; then
+if wget --spider https://raw.githubusercontent.com/dhritzz/ighek 2>/dev/null; then
 cd ig_brute_force/core
 echo "ig" > update.txt
 else
@@ -23,7 +23,7 @@ fi
 }
 option
 check1(){
-if wget --spider https://raw.githubusercontent.com/noob-hackers/patchupdateznh/main/ig_brute_force.v.1 2>/dev/null; then
+if wget --spider https://raw.githubusercontent.com/dhritzz/ighek 2>/dev/null; then
 cd ig_brute_force/core
 echo "igg" > patch.txt
 else
@@ -77,9 +77,9 @@ echo -e '\e[91m
     ╚═╝ ╚═════╝       \e[92m╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝\e[91m
 \e[0m'
 printf "\n"
-printf "                \e[101m\e[1;77m  >>  Script By N17R0 << \e[0m\n"
+printf "                \e[101m\e[1;77m  >>  Script By Dhritzz << \e[0m\n"
 printf "\n"
-printf "       \e[100m\e[1;77m >>  Youtube Channel : \e[1;96m Noob Hackers \e[100m\e[1;77m << \e[0m\n"
+printf "       \e[100m\e[1;77m >>  Youtube Channel : \e[1;96m Dhritzz \e[100m\e[1;77m << \e[0m\n"
 printf "\n"
 }
 baner1(){
@@ -104,9 +104,9 @@ echo -e '\e[91m
     ╚═╝ ╚═════╝       \e[92m╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝\e[91m
 \e[0m'
 printf "\n"
-printf "                \e[101m\e[1;77m  >>  Script By N17R0 << \e[0m\n"
+printf "                \e[101m\e[1;77m  >>  Script By Dhritzz << \e[0m\n"
 printf "\n"
-printf "       \e[100m\e[1;77m >>  Youtube Channel : \e[1;96m Noob Hackers \e[100m\e[1;77m << \e[0m\n"
+printf "       \e[100m\e[1;77m >>  Youtube Channel : \e[1;96m Dhritzz \e[100m\e[1;77m << \e[0m\n"
 printf "\n"
 }
 echo 
@@ -238,7 +238,7 @@ echo -e "
       ┃             ┃| $grn$cod UPTIME=$o" $upt"$grn
       ┃  ( ͡❛ ͜ʖ ͡❛)   ┃| $grn$cod SHELL=$o" $shl"$grn
       ┃             ┃| $grn$cod EGL=$o" $egl"$grn
-      ┃ Noob Hackers┃| $grn$cod HARDWARE=$o" $hardw"$grn
+      ┃ Dhritzz     ┃| $grn$cod HARDWARE=$o" $hardw"$grn
       ┃━━━━━ ○ ━━━━━┃| $grn$cod MODEL=$o" $modl"$grn
       ╰━━━━━━━━━━━━━╯
 "
